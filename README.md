@@ -269,13 +269,14 @@ top American YouTubers
 - [Saint Kitts and Nevis](https://youtubers.cafe/country/st-kitts-and-nevis)
 - [Saint Lucia](https://youtubers.cafe/country/st-lucia)
 - [Saint Pierre and Miquelon](https://youtubers.cafe/country/st-pierre-and-miquelon)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [South Georgia & South Sandwich Islands](https://youtubers.cafe/country/south-georgia-and-south-sandwich-islands)
+- [Suriname](https://youtubers.cafe/country/suriname)
+- [Trinidad and Tobago](https://youtubers.cafe/country/trinidad-and-tobago)
+- [Turks and Caicos Islands](https://youtubers.cafe/country/turks-and-caicos-islands)
+- [United States of America](https://youtubers.cafe/country/usa)
+- [U.S. Virgin Islands](https://youtubers.cafe/country/us-virgin-Islands)
+- [Uruguay](https://youtubers.cafe/country/uruguay)
+- [Venezuela](https://youtubers.cafe/country/venezuela)
 
 top Australian YouTubers
 ------------------------
